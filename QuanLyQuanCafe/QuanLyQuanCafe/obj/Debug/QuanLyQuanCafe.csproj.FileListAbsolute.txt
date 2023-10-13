@@ -1,0 +1,61 @@
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangnhap.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FQuanlyTable.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fQuanlyTaiKhoan.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangnhap.resources
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FQuanlyTable.resources
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fQuanlyTaiKhoan.resources
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangnhap.resources
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FQuanlyTable.resources
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fQuanlyTaiKhoan.resources
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\lethu\Downloads\2.Đồ án .Net\2.Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangnhap.resources
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FQuanlyTable.resources
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fQuanlyTaiKhoan.resources
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\lethu\Downloads\Đồ án .Net\Đồ án .Net\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangnhap.resources
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FQuanlyTable.resources
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fQuanlyTaiKhoan.resources
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\+Học+\cũ\+ HK5 +\.NET\Đồ án .Net\PHẦN MỀM QUẢN LÝ QUÁN CAFE\Code\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
