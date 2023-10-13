@@ -1,2 +1,2 @@
-# Ph-n-m-m-qu-n-l-qu-n-Cafe
+# Phần mềm quản lý quán cafe
 .Net
